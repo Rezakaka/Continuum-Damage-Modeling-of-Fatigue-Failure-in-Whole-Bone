@@ -1,3 +1,5 @@
+# Cite this paper:
+Kakavand R, Dimnik JM, Haider IT, Edwards WB. Continuum Damage Modeling of Biaxial Fatigue Failure in Whole Bone: A Hybrid Approach with Machine Learning Integration. ArXiv Preprint ArXiv:250415287 2025.
 # Density-Based Bone Damage Simulation in Abaqus (UMAT + UAMP)
 
 This repository contains a Fortran implementation of Abaqus user subroutines for simulating fatigue-driven damage accumulation in bone under cyclic loading.
